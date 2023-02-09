@@ -1,1 +1,1 @@
-ALX Project
+#!/bin/bash
